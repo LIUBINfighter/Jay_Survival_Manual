@@ -1,5 +1,6 @@
 <p style="text-align: center">
-    <img alt="Logo" src="https://liubinfighter.github.io/Blog/about/icon.jpg" height="180px">
+    <!-- <img alt="Logo" src="https://liubinfighter.github.io/Blog/about/icon.jpg" height="180px"> -->
+    <img alt="Logo" src="res\img\icon.jpg" height="180px">
 </p>
 
 <h3>Jay's Survival Manual</h3>
