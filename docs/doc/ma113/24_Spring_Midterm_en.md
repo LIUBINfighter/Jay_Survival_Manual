@@ -1,3 +1,4 @@
+线代24春期中试题 en 发布版
 
 1.(15 points, 3 points each) Multiple Choice. Only one choice is correct.
 
@@ -13,7 +14,7 @@ $\left(C\right)7.$
 
 $\left(D\right)8.$
 
----
+<hr style="border: 1px solid black;">
 
 (2) Iet $A$ be an $m\times n$ real matrix and $b$ be an $m\times1$ real column vector. Which of the following statements is correct?
 
@@ -26,7 +27,7 @@ $\left(D\right)8.$
 (D) If the rank of $A$ is $n$, then $A\mathbf{x} = \mathbf{0}$ has only the zero solution. 
 
 
----
+<hr style="border: 1px solid black;">
 
 (3) For which value of $k$ does the system
 $$\left.\left\{\begin{matrix}x_{1}+2x_{2}-4x_{3}+3x_{4}=0,\\x_{1}+3x_{2}-2x_{3}-2x_{4}=0,\\x_{1}+5x_{2}+(5-k)x_{3}-12x_{4}=0,\end{matrix}\right.\right.$$have exactly two free variables?
@@ -39,7 +40,7 @@ $\left(C\right)3.$
 
 $\left(D\right)2.$
 
----
+<hr style="border: 1px solid black;">
 
 $\left(4\right)$ Let $u,v\in\mathbb{R}^3$ and $\lambda\in\mathbb{R}.$ Which of the following statements is false?
 
@@ -51,7 +52,7 @@ $\left(C\right)u^{T}v=0$ if and only if $u=0$ or $v=0.$
 
 $\left(D\right)\lambda v=0$ if and only if $v=0$ or $\lambda=0.$ 
 
----
+<hr style="border: 1px solid black;">
 
 (5) Let $A$ and $B$ be two $n\times n$ matrices. Which of the following assertions is **false**?
 
@@ -63,7 +64,7 @@ $(C)$ If $A,B$ are permutation matrices, then $AB$ is a permutation matrix.
 
 $(D)$ If $A,B$ are upper triangular matrices, then $AB$ is an upper triangular matrix.
 
----
+<hr style="border: 1px solid black;">
 
 2. (20 points, 5 points each) Fill in the blanks.
 $$(1) \text{Let}\left.A=\left[\begin{array}{ccc}1&0&0\\a&1&0\\b&3&2\end{array}\right.\right],a,b\in\mathbb{R}.\text{Then }A^{-1}=\underline{\quad\quad\quad}.$$
@@ -76,13 +77,13 @@ $\begin{aligned}(3) \mathrm{Let} \quad A&=\left[\begin{array}{rrr}1&-1&1\\-1&1&-
 $$\left.Ax=b:\left\{\begin{array}{rcl}x&=&2\\y&=&3\\x+y&=&6\end{array}\right.\right.$$
 The least-squares solution for the system is $\underline{\quad\quad\quad}.$
 
----
+<hr style="border: 1px solid black;">
 
 3. (10points)Let
 $$\left.A=\left[\begin{array}{rrr}1&-2&3\\2&-5&1\\1&-4&-7\end{array}\right.\right].$$
 Find an $LU$ factorization of $A.$
 
----
+<hr style="border: 1px solid black;">
 
 
 4. ( 24 points)  Consider the following $4\times 5$ matrix $A$ and 4-dimensional column vector b:
@@ -90,7 +91,7 @@ $$\left.A=\left[\begin{array}{ccccc}0&2&4&1&6\\0&1&1&1&3\\0&4&10&1&2\\0&-1&-5&1&
 (a) Find a basis for each of the four fundamental subspaces of $A.$
 (b) Find the complete solution to $A\mathbf{x=b}$.
 
----
+<hr style="border: 1px solid black;">
 
 5. (20 points) Let $A=\left[\begin{array}{cc}1&1\\0&2\end{array}\right]$ and  $T$ be the linear transformation from $R^{2\times2}~\text{to}~R^{2\times2}$ defined by
 $$T(X)=XA+AX,\:X\in\mathbb{R}^{2\times2}.$$
@@ -104,15 +105,15 @@ $$\left.T(B)=\left[\begin{array}{cc}0&0\\0&0\end{array}\right.\right].$$
 (c) Find a matrix $C$ such that
 $$\left.T\left(C\right)=\left[\begin{array}{cc}1&2\\3&4\end{array}\right.\right].$$
 
----
+<hr style="border: 1px solid black;">
 
 6. (5 points ) Let $A,B$ be two $n\times n$ real matrices satisfying $A^2=A$ and $B^2=B.$ Show that if $(A+B)^{2}=A+B$, then $AB=O.$ Where $O$ denotes the $n\times n$ zero matrix.
 
----
+<hr style="border: 1px solid black;">
 
 7. (6 points) Let $A$ be a $3\times2$ matrix, $B$ be a $2\times3$ matrix such that
 $$\left.AB=\left[\begin{array}{rrr}8&0&-4\\-\frac{3}{2}&9&-6\\-2&0&1\end{array}\right.\right].$$
 $\left(a\right)\text{Compute}\left(AB\right)^{2}.$
 $(b)$ Find $BA.$
 
----
+<hr style="border: 1px solid black;">
