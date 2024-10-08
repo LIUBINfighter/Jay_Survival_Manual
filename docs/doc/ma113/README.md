@@ -1,8 +1,23 @@
 # 妮可线性代数学习指南
 
+## 广告位（10.13日的活动，有需要的小伙伴可以添加）
+
+![alt text](psc.jpg)
+
+![alt text](psc2.png)
+
+想留学，却又不知道该怎么规划？想申请，却又不知道该如何定位目标？想备考，却又不知道该从何处起手？
+
+别着急，这些问题都交给紫藤！紫藤雅思面对南科大学子开展的1v1线下留学咨询会已开始火热预约，你想了解的所有关于留学的问题 在这里都能找到答案！咨询会现场更有精美礼品，零食下午茶等你来拿！
+
+参与方式：扫描海报中的二维码，进入小程序，成功预约之后添加跳转出的小助手微信预约咨询时间。名额有限，快来参与吧！
+
+
 ## 课程资料
 
 这里只推荐一点点的网站，多了挑花眼对节省时间无益呀。
+
+- [牛蛙评教网 NCES-线性代数 (cra.moe)](https://nces.cra.moe/course/7205/)
 
 ### 仓库
 
@@ -16,9 +31,9 @@
 
 ### 网课
 
-- [MIT Gilbert 中英双语字幕](https://www.bilibili.com/video/BV1zx411g7gq/?spm_id_from=333.337.search-card.all.click&vd_source=8bff7cdac17c4bc79b5b5163a742ba14)
+- [MIT Gilbert 中英双语字幕 bilibili.com](https://www.bilibili.com/video/BV1zx411g7gq/?spm_id_from=333.337.search-card.all.click&vd_source=8bff7cdac17c4bc79b5b5163a742ba14)
 
-- [线性代数的本质 3B1B](https://www.bilibili.com/video/BV1Ys411k7yQ/?spm_id_from=333.337.search-card.all.click&vd_source=8bff7cdac17c4bc79b5b5163a742ba14)
+- [线性代数的本质 3B1B bilibili.com](https://www.bilibili.com/video/BV1Ys411k7yQ/?spm_id_from=333.337.search-card.all.click&vd_source=8bff7cdac17c4bc79b5b5163a742ba14)
 
 - 策神网课及资料见下。
 
@@ -82,11 +97,11 @@
 
 资料都收集差不多了，催的人多我就做，嘿嘿。
 
-~~多点下广告/从下面的下载链接下载pdf，给牢登一点空调费吧要开不起空调了()~~
+~~从下面的下载链接下载pdf，给老登打一点空调费吧要开不起空调了()~~
 
 ## 资料下载链接
 
-以下资料都是我整理的。通过链接下载，赞助商会帮你支持这个项目。
+以下资料都是我在制作这个网站时顺手整理的。通过链接下载，赞助商会帮你支持这个项目。
 
 - [线性代数期中三期（24春/23秋/23春）纯合并，无目录无前言,pdf版](https://pan.quark.cn/s/70ca7b0d2eaf)
 

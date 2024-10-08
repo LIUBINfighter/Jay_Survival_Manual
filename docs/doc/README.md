@@ -5,13 +5,35 @@
 
 Hello, it's Jay Bridge.
 
-你好，我是刘华杰。这是我[个人博客](https://liubinfighter.github.io/Blog/)之外的第二个静态网站，使用docsify框架更系统地展示学业/Trading相关的系列文章。
+你好，我是刘华杰。
+
+这是我[个人博客](https://liubinfighter.github.io/Blog/)之外的第二个静态网站，使用docsify框架更系统地展示学业/Trading相关的系列文章。
+
+本网站预计会陆续更新以下内容：（已更新的内容在右侧目录查看）
+
+- 妮可课程
+  - MA113 Linear Algebra 线性代数
+    - 线性代数习题指南
+    - 期中/期末试题册
+  - MA212 概率论与数理统计
+    - 作业题目
+- 杂七杂八的笔记
+  - Trading
+  - Network analysis
 
 ## MA113 Linear Algebra
 
 ### 资料下载链接
 
-通过链接转存到你的网盘或者下载，赞助商会帮你支持这个项目。目前只上传了集合，稍后会将更详细的带有目录/单期试题的版本。
+会使用github的朋友可以到我备份的仓库查看pdf文档
+
+- [Open notes SUSTech (github.com)](https://github.com/LIUBINfighter/Open_Notes_SUSTech)
+
+```cmd
+git clone https://github.com/LIUBINfighter/Open_Notes_SUSTech.git
+```
+
+通过链接转存到你的夸克网盘或者下载，赞助商会帮你支持这个项目。目前只上传了集合，稍后会将更详细的带有目录/单期试题的版本。
 
 - [线性代数期中三期（24春/23秋/23春）纯合并，无目录无前言,pdf版](https://pan.quark.cn/s/70ca7b0d2eaf)
 

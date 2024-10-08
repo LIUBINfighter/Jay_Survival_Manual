@@ -42,7 +42,6 @@ $$P(A\cap B)\geqslant P(A)+P(B)-1$$
 <hr style="border: 1px solid black;">
 
 
-
 #### 补充题
 
 1.设A,B,C是三个随机事件,且 $P(A)=P(B)=P(C)=\frac14$,$\quad P(AB)=P(BC)=0$,$P(AC)=\frac18$,求$A,B,C$至少有一个发生的概率.
