@@ -10,7 +10,7 @@
 
 <!-- <img src="https://liubinfighter.github.io/Jay_Survival_Manual/doc/ma113/psc.jpg" alt="alt text" style="width:200px;height:auto;"> -->
 
-<img src="https://liubinfighter.github.io/Jay_Survival_Manual/doc/ma113/psc_copy.jpg" alt="alt text" style="width:400px;height:auto;">
+<img src="https://liubinfighter.github.io/Jay_Survival_Manual/doc/ma113/psc1+2.jpg" alt="alt text" style="width:400px;height:auto;">
 
 想留学，却又不知道该怎么规划？想申请，却又不知道该如何定位目标？想备考，却又不知道该从何处起手？
 
