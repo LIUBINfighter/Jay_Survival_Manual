@@ -5,12 +5,12 @@
   - [23 Fall Midterm en](/doc/ma113/23_Fall_Midterm_en.md)
   - [23 Fall Midterm zh](/doc/ma113/23_Fall_Midterm_zh.md)
   - [Answer 23 Fall Midterm](/doc/ma113/A_23_Fall_Midterm.md)
-  <!-- - [23 Spring Midterm en](/doc/ma113/23_Spring_Midterm_en.md) -->
-  <!-- - [23 Spring Midterm zh](/doc/ma113/23_Spring_Midterm_zh.md) -->
-  <!-- - [Answer 23 Spring Midterm](/doc/ma113/A_23_Spring_Midterm.md) -->
-- [**MA212 概率论与数理统计**](/doc/ma212)
+  - [23 Spring Midterm en](/doc/ma113/23_Spring_Midterm_en.md)
+  - [23 Spring Midterm zh](/doc/ma113/23_Spring_Midterm_zh.md)
+  - [Answer 23 Spring Midterm](/doc/ma113/A_23_Spring_Midterm.md)
+- [**MA212 概率论与数理统计**](/doc/ma212/)
   - [HW1|week1](/doc/ma212/hw1.md)
   - [HW2|week2](/doc/ma212/hw2.md)
-  - [HW3|week3](/doc/ma212/hw3)
+  - [HW3|week3](/doc/ma212/hw3.md)
   <!-- - [HW4|week5](/doc/ma212/hw4) -->
 <!-- - [**Trading**](/doc/trading/) -->
