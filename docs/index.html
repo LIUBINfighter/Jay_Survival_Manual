@@ -58,6 +58,12 @@
         },
         depth: 3,
       },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
       // 配置自定义插件
       // ethicalAds:{
         // enabled:true,
@@ -77,6 +83,13 @@
       }
     }
   </script>
+  <script>
+    window.$docsify = {
+    ...
+    }
+</script>
+  <!-- 访问量统计 -->
++ <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <!-- Docsify v4 -->
   <script src="https://cdn.staticfile.org/docsify/4.13.1/docsify.min.js"></script>
   <!-- Plugins -->
@@ -84,6 +97,8 @@
   <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
   <script src="//cdn.jsdelivr.net/npm/marked@4"></script>
+  <!-- docsify-pagination翻页插件 -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <!-- CDN files for docsify-katex -->
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
   <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->

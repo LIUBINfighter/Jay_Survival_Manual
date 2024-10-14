@@ -9,7 +9,7 @@ Hello, it's Jay Bridge.
 
 这是我[个人博客](https://liubinfighter.github.io/Blog/)之外的第二个静态网站，使用docsify框架更系统地展示学业/Trading相关的系列文章。
 
-本网站预计会陆续更新以下内容：（已更新的内容在右侧目录查看）
+本网站预计会陆续更新以下内容：（已更新的内容在左侧目录查看，移动端左下角呼出目录）
 
 - 妮可课程
   - MA113 Linear Algebra 线性代数
@@ -20,6 +20,8 @@ Hello, it's Jay Bridge.
 - 杂七杂八的笔记
   - Trading
   - Network analysis
+
+本网站的各类插件参考[Awesome_Plugins](https://docsify.js.org/#/awesome?id=plugins)
 
 ## MA113 Linear Algebra
 
