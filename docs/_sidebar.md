@@ -14,3 +14,5 @@
   - [HW3|week3](/doc/ma212/hw3.md)
   - [HW4|week5](/doc/ma212/hw4.md)
 <!-- - [**Trading**](/doc/trading/) -->
+- [**CS112 Python**](/doc/cs112)
+  - [quiz1|week6](/doc/cs112/quiz1.md)
