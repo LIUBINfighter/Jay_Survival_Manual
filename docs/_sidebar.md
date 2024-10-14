@@ -12,5 +12,5 @@
   - [HW1|week1](/doc/ma212/hw1.md)
   - [HW2|week2](/doc/ma212/hw2.md)
   - [HW3|week3](/doc/ma212/hw3.md)
-  <!-- - [HW4|week5](/doc/ma212/hw4) -->
+  - [HW4|week5](/doc/ma212/hw4.md)
 <!-- - [**Trading**](/doc/trading/) -->
