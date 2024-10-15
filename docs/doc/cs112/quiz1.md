@@ -42,12 +42,9 @@ Output a list.
 
 ## Sample
 
-Input
-`10`
+Input    `10`
 
-Output
-
-`[2, 4, 6, 8, 10]`
+Output   `[2, 4, 6, 8, 10]`
 
 # Quiz3
 
@@ -69,15 +66,13 @@ Output an integer.
 
 ## Sample
 
-Input #1 
+Input #1
 ```
 cookie
 cool
 ```
 
 Output #1  `2`
-
-
 
 # Quiz4
 

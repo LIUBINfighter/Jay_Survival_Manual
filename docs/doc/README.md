@@ -23,6 +23,10 @@ Hello, it's Jay Bridge.
 
 本网站的各类插件参考[Awesome_Plugins](https://docsify.js.org/#/awesome?id=plugins)
 
+本网站的大多数LaTeX都是在[SimpleTeX](https://simpletex.cn/user/register?code=vrx6lzBo)的帮助下完成的，非常感谢[SimpleTeX](https://simpletex.cn/user/register?code=vrx6lzBo)提供的服务！
+
+>[好用的公式文档识别工具SimpleTex，支持80+语言/公式图表/PDF识别，邀请你前来使用！(点击可跳转)](https://simpletex.cn/user/register?code=vrx6lzBo)
+
 ## MA113 Linear Algebra
 
 ### 资料下载链接
@@ -57,7 +61,7 @@ git clone https://github.com/LIUBINfighter/Open_Notes_SUSTech.git
 
 <div style="text-align: right;">2024年10月7日凌晨于深圳</div>
 
-### Preface 1st
+<!-- ### Preface 1st
 
 >按：这是以前印刷样书测试的前言。针对obsidian markddown导出pdf进行了优化。你应该可以在卷饼群看到我专门留空方便书写的pdf.
 
@@ -75,4 +79,4 @@ git clone https://github.com/LIUBINfighter/Open_Notes_SUSTech.git
 
 不过你都看到这里了，我猜测之后还会有一篇线性代数学习指南。
  
-<div style="text-align: right;">2024年9月16日凌晨于深圳</div>
+<div style="text-align: right;">2024年9月16日凌晨于深圳</div> -->
