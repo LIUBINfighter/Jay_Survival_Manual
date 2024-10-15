@@ -16,9 +16,9 @@ $\begin{align}P(X=-1) = P(X=0) = P(X=1) = \frac{1}{3}\end{align}$
 ---
 
 3.设随机变量 $Y$  服从参数为 $1$ 的指数分布，随机变量
-$$X_k = \begin{cases} 
-0, & \text{若 } Y \leq k, \\ 
-1, & \text{若 } Y > k, 
+$$X_k = \begin{cases}
+0, & \text{若 } Y \leq k, \\
+1, & \text{若 } Y > k,
 \end{cases} \quad k = 1, 2 $$
 
 求二维随机变量 $(X_1, X_2)$ 的联合频率函数及边缘频率函数。
