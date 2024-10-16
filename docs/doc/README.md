@@ -13,10 +13,13 @@ Hello, it's Jay Bridge.
 
 - 妮可课程
   - MA113 Linear Algebra 线性代数
-    - 线性代数习题指南
-    - 期中/期末试题册
+    - [线性代数学习指南](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/)
+    - [期中](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/24_Spring_Midterm_en)/期末试题册
+    - [答案](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/A_24_Spring_Midterm)
   - MA212 概率论与数理统计
-    - 作业题目
+    - [作业题目](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma212/)
+  - CS112 Python
+    - [quiz](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/cs112/quiz1)
 - 杂七杂八的笔记
   - Trading
   - Network analysis
@@ -39,11 +42,33 @@ Hello, it's Jay Bridge.
 git clone https://github.com/LIUBINfighter/Open_Notes_SUSTech.git
 ```
 
-通过链接转存到你的夸克网盘或者下载，赞助商会帮你支持这个项目。目前只上传了集合，稍后会将更详细的带有目录/单期试题的版本。
+#### 线性代数真题
+
+目前只上传了集合，稍后会将更详细的带有目录/单期试题的版本。
 
 - [线性代数期中三期（24春/23秋/23春）纯合并，无目录无前言,pdf版](https://pan.quark.cn/s/70ca7b0d2eaf)
 
-提取码：WgFQ
+提取码：`WgFQ`
+
+pdf样例：
+
+<img alt="Logo" src="res\img\线性代数答案样例.png" height="400px">
+
+#### 其他期中考试题目
+
+我个人觉得这份资料集太杂，大家对于特定的科目肯定有更好的选择。不过还是放上来吧。
+
+<img alt="Logo" src="res\img\南科大期中考试资料.png" height=auto>
+
+<!-- <img alt="Logo" src="res\img\南科大期中考试资料.png" height="240px"> -->
+
+这是夸克网盘上的[南科大历年期中考试真题|夸克网盘](https://pan.quark.cn/s/bcdf084a1aa2)，点击[此处](https://pan.quark.cn/s/bcdf084a1aa2)或者以下链接即可保存： https://pan.quark.cn/s/bcdf084a1aa2
+
+如果你不怎么使用夸克网盘，这里也有百度网盘的链接：[南科大历年期中考试真题|百度网盘](https://pan.baidu.com/s/1SdgzsWYTWvbwxDLdze8P_w?pwd=adS3)     提取码：  `adS3`
+
+注意这些文档大多数是照片质量，也并没有得到很好的整理。你也许能在一些群聊中见到他们，群聊内容和这个有一定差异。
+
+我目前没有把他们转为LaTeX的计划。如果有需求可以Email我： `huajiebridge34@gmail.com`
 
 ### Preface 2nd
 
@@ -80,3 +105,7 @@ git clone https://github.com/LIUBINfighter/Open_Notes_SUSTech.git
 不过你都看到这里了，我猜测之后还会有一篇线性代数学习指南。
  
 <div style="text-align: right;">2024年9月16日凌晨于深圳</div> -->
+
+## Support Now, Buy Me Tea
+
+<img alt="Logo" src="res\img\support.png" height="400px">

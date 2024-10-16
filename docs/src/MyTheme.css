@@ -984,7 +984,7 @@ section.cover ul {
 /* watermark */
 section.content::after {
   content: "";
-  background-image: url(https://liubinfighter.github.io/Blog/about/icon.jpg);
+  /* background-image: url(https://liubinfighter.github.io/Blog/about/icon.jpg); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: 180px;
