@@ -12,7 +12,7 @@
 
 如果你不怎么用夸克网盘，这里也有百度网盘的链接：
 
-（每期试题和答案散装）[百度网盘|试题+答案 24春23秋23春期中 MA113 线性代数](https://pan.baidu.com/s/1NQuxwUpdeWrjHXocDJB2eg?pwd=adS3)
+- （每期试题和答案散装）[百度网盘|试题+答案 24春23秋23春期中 MA113 线性代数](https://pan.baidu.com/s/1NQuxwUpdeWrjHXocDJB2eg?pwd=adS3)
 
 <!-- ## 广告位（10.13日的活动，有需要的小伙伴可以添加） -->
 

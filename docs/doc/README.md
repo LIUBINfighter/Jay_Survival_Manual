@@ -44,11 +44,19 @@ git clone https://github.com/LIUBINfighter/Open_Notes_SUSTech.git
 
 #### 线性代数真题
 
-目前只上传了集合，稍后会将更详细的带有目录/单期试题的版本。
+~~目前只上传了集合，稍后会将更详细的带有目录/单期试题的版本。~~
 
-- [线性代数期中三期（24春/23秋/23春）纯合并，无目录无前言,pdf版](https://pan.quark.cn/s/70ca7b0d2eaf)
+已上传成册和单份线性代数习题以及答案，格式和电子书左侧目录保持一致。
+
+- （全部成一册）[夸克网盘|线性代数期中三期（24春/23秋/23春）纯合并，无目录无前言,pdf版](https://pan.quark.cn/s/70ca7b0d2eaf)
 
 提取码：`WgFQ`
+
+- （每期试题和答案散装）[夸克网盘|试题+答案 24春23秋23春期中 MA113 线性代数](https://pan.quark.cn/s/6549c57437bd)
+
+如果你不怎么用夸克网盘，这里也有百度网盘的链接：
+
+- （每期试题和答案散装）[百度网盘|试题+答案 24春23秋23春期中 MA113 线性代数](https://pan.baidu.com/s/1NQuxwUpdeWrjHXocDJB2eg?pwd=adS3)
 
 pdf样例：
 
