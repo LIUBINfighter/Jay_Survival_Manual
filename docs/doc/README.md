@@ -20,7 +20,7 @@ Hello, it's Jay Bridge.
     - [作业题目](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma212/)
   - CS112 Python
     - [quiz](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/cs112/quiz1)
-- 杂七杂八的笔记
+- Tools and Notes
   - Trading
   - Network analysis
 
