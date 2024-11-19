@@ -11,17 +11,21 @@ Hello, it's Jay Bridge.
 
 本网站预计会陆续更新以下内容：（已更新的内容在左侧目录查看，移动端左下角呼出目录）
 
-- 妮可课程
-  - MA113 Linear Algebra 线性代数
-    - [线性代数学习指南](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/)
-    - [期中](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/24_Spring_Midterm_en)/期末试题册
-    - [答案](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/A_24_Spring_Midterm)
-  - MA212 概率论与数理统计
-    - [作业题目](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma212/)
-  - CS112 Python
-    - [quiz](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/cs112/quiz1)
+- CFA
+  - Pending...
+- MA113 Linear Algebra 线性代数
+  - [线性代数学习指南](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/)
+  - [期中](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/24_Spring_Midterm_en)/期末试题册
+  - [答案](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma113/A_24_Spring_Midterm)
+- MA212 概率论与数理统计
+  - [作业题目](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/ma212/)
+- CS112 Python
+  - [quiz](https://liubinfighter.github.io/Jay_Survival_Manual/#/doc/cs112/quiz1)
 - Tools and Notes
   - Trading
+    - Market Structure
+    - Orderflow
+    - Macro-Micro Analysis
   - Network analysis
 
 本网站的各类插件参考[Awesome_Plugins](https://docsify.js.org/#/awesome?id=plugins)
@@ -29,6 +33,25 @@ Hello, it's Jay Bridge.
 本网站的大多数LaTeX都是在[SimpleTeX](https://simpletex.cn/user/register?code=vrx6lzBo)的帮助下完成的，非常感谢[SimpleTeX](https://simpletex.cn/user/register?code=vrx6lzBo)提供的服务！
 
 >[好用的公式文档识别工具SimpleTex，支持80+语言/公式图表/PDF识别，邀请你前来使用！(点击可跳转)](https://simpletex.cn/user/register?code=vrx6lzBo)
+
+## CFA 备考资料
+
+目前的文件包括：
+
+- 24年CFA学霸笔记.pdf
+- CFA-L1学习指导手册.pdf
+- CFA金融英语词汇.pdf
+- CFA一级高频考点.pdf
+- CFA一级公式手册.pdf
+- CFA一级核心百题.pdf
+- CFA一级模考题.pdf
+- CFA一级知识点速记手册.pdf
+
+百度网盘链接：[CFA备考资料(共8份)](https://pan.baidu.com/s/1w8eUPRu455KomQyIUMVsBg?pwd=5acc)
+
+提取码：`5acc`
+
+夸克网盘链接：[「CFA一级知识点速记手册.pdf」等8份文件](https://pan.quark.cn/s/bc2aabd8d2a4)
 
 ## MA113 Linear Algebra
 
